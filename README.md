@@ -1,5 +1,8 @@
-# Covid-19-Outbreak-Analysis
-A presentation in the form of a Jupyter Notebook for 12th final's project
+# COVID-19 : Outbreak Analysis
 
+## A presentation in the form of a Jupyter Notebook for 12th final's project
 
-https://colab.research.google.com/drive/1gjkBWoQTfYSgBS4OUDpgh3sQyj1fag-0?usp=sharing
+<br>
+<a href = "https://colab.research.google.com/drive/1gjkBWoQTfYSgBS4OUDpgh3sQyj1fag-0?usp=sharing">
+<img src='https://img.shields.io/static/v1?label=run%20on&message=google%20colab&color=ffa31a&style=for-the-badge' />
+</a>
