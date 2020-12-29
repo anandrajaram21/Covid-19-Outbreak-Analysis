@@ -1,6 +1,7 @@
 # COVID-19 : Outbreak Analysis
 
 ## A presentation in the form of a Jupyter Notebook for 12th final's project.
+[Presentation here](https://jovian.ml/anandrajaram21/covid-19-outbreak-analysis/v/2)
 
 ### Web-App repository : **[Covidash](https://github.com/anandrajaram21/covidash)**
 
