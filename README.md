@@ -15,6 +15,6 @@
 </a> -->
 <!--
 <br>
-<a href = "https://mybinder.org/v2/gh/Majimearun/Covid-19-Outbreak-Analysis/main?filepath=Finals_Presentation.ipynb">
+<a href = "https://mybinder.org/v2/gh/Majimearun/Covid-19-Outbreak-Analysis/main?filepath=covid.ipynb">
 <img src='https://img.shields.io/static/v1?label=run%20on&message=binder&color=ff4d4d&style=for-the-badge' />
 </a> -->
