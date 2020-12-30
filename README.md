@@ -1,8 +1,8 @@
 # COVID-19 : A Data Science Project
 
-### My contribution in the 'covidash' web-application by me and my teammates @anandrajaram21 and @anirudhlakhotia for the 12th final exam
+#### My contribution in the _Covidash_ web-application by me and my teammates [@anandrajaram21](https://github.com/anandrajaram21) and [@anirudhlakhotia](https://github.com/anirudhlakhotia) for the 12th final exam
 
-### Web-App repository : **[Covidash](https://github.com/anandrajaram21/covidash)** 
+#### Web-App repository : **[Covidash](https://github.com/anandrajaram21/covidash)** 
 
 <br>
 <a href = "https://colab.research.google.com/drive/12SBxJ_N1TLJgc6pZVy9G-vgZY3k2w_Aa?usp=sharing">
