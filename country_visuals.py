@@ -67,7 +67,7 @@ def get_country_frame(country):
 # %%
 
 
-def plot_province(data, metric, metric_name):
+def plot_province(data, metric):
     fig = go.Figure()
 
     fig.add_trace(
@@ -107,6 +107,6 @@ def table_province_data(data, metric):
 """
 today_data,today_country_data = get_today_data()
 country_stats = get_country_frame(choose_country(today_country_data, "India"))
-bar_chart = plot_province(country_stats, "Confirmed", "Confirmed Cases")
+bar_chart = plot_province(country_stats, "Confirmed")
 table = table_province_data(country_stats, "Confirmed")
 """
