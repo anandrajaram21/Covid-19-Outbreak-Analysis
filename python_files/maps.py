@@ -119,7 +119,7 @@ def create_basic_layout(latitude, longitude, zoom):
         "paper_bgcolor": "#000000",
         "showlegend": False,
         "mapbox": {
-            "accesstoken": mapbox_access_token,
+            "accesstoken": "pk.eyJ1IjoiY2hhcnRzdHVkaW91c2VyIiwiYSI6ImNrZXd3bTBoNTA4bnYyemw4N3l5aDN5azIifQ.7e-KoC1KMXr_EKbkahgAQQ",
             "bearing": 0,
             "center": {"lat": latitude, "lon": longitude},
             "pitch": 0,
