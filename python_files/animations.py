@@ -1,7 +1,7 @@
 # %%
 # Imports
 
-import app_vars as av
+import vars
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -10,10 +10,10 @@ import plotly.graph_objects as go
 
 # %%
 confirmed_global, deaths_global, recovered_global, country_cases_sorted = (
-    av.confirmed_global,
-    av.deaths_global,
-    av.recovered_global,
-    av.country_cases_sorted,
+    vars.confirmed_global,
+    vars.deaths_global,
+    vars.recovered_global,
+    vars.country_cases_sorted,
 )
 
 # %%
