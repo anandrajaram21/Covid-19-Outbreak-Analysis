@@ -1,4 +1,4 @@
-# COVID-19 : A Data Science Project
+# COVID-19 Analysis : A Data Science Project
 
 #### My contribution in the _Covidash_ web-application by me and my teammates [@anandrajaram21](https://github.com/anandrajaram21) and [@anirudhlakhotia](https://github.com/anirudhlakhotia) for the 12th final exam
 <br>
