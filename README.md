@@ -9,7 +9,7 @@
 <img src='https://img.shields.io/static/v1?label=View%20presentation%20on&message=google%20colab&color=ffa31a&style=for-the-badge' />
 </a> 
 <br>
-
-(The web-app was made by my teammates [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
+<br>
+(The web-app was designed by my teammates [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
 
 
