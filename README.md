@@ -11,6 +11,6 @@
 <br>
 <br>
 
-(The web-app was designed by my teammates [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
+(This was converted into a web-app by my teammates [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
 
 
