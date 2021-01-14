@@ -11,6 +11,6 @@
 <br>
 <br>
 
-(This was converted into a web-app by [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
+(This was converted into a web application by [Anand Rajaram](https://github.com/anandrajaram21) and [Anirudh Lakhotia](https://github.com/anirudhlakhotia))
 
 
